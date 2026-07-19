@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+*.db
+*.sqlite3
+.idea/
+
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+startup.log
+startup_err.log
